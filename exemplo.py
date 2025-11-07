@@ -6,3 +6,4 @@ compras_efetuadas = [   #informações do preço e quantidade
     ("feijão, 2,99, 2"),
     ("tomate", 1.99, 9.8)
 ]
+
